@@ -1,0 +1,13 @@
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.exe
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.deps.json
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.runtimeconfig.json
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.runtimeconfig.dev.json
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.dll
+D:\C# проекты\DataStructures\DataStructures\bin\Release\netcoreapp3.1\DataStructures.pdb
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.csprojAssemblyReference.cache
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.csproj.CoreCompileInputs.cache
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.AssemblyInfoInputs.cache
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.AssemblyInfo.cs
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.dll
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.pdb
+D:\C# проекты\DataStructures\DataStructures\obj\Release\netcoreapp3.1\DataStructures.genruntimeconfig.cache
